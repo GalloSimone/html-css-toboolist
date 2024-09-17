@@ -60,3 +60,10 @@ color: green;
  .button-mobile{
   background-color: chocolate;
  }
+ button{
+  background-color: rgb(55, 191, 237) ;
+  border-radius: 6px;
+ }
+ .button-website{
+  background-color: pink;
+ }
