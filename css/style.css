@@ -1,0 +1,27 @@
+/* # RESET */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+ /* # HEADER */
+.logo-image{
+ vertical-align: middle;
+ width: 110px;
+}
+ .logo-text{
+  display: inline;
+  width: 120px;
+ }
+ .botton{
+display: inline;
+ }
+ .botton-add-task{
+display: inline;
+margin-left: 46ch;
+background-color: lightblue;
+ }
+ .botton-add-section{
+display: inline;
+ }
