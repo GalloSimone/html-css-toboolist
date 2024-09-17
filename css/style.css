@@ -21,24 +21,24 @@ margin-top: 50ch;
  .botton-add-task{
 display: inline;
 margin-left: 57ch;
-background-color: lightblue;
+background-color: rgb(55, 191, 237);
+border-radius: 5px;
  }
  .botton-add-section{
 display: inline;
 color: rgba(128, 128, 128, 0.918);
+border-radius: 5px;
  }
  .list{
   margin-left: 54ch;
   margin-top: 3ch;
  }
 .new-task-list{
-
+margin-bottom: 2ch;
 }
 .today-list{
- 
+ margin-bottom: 2ch;
 }
 .upcoming-list{
-
+  margin-bottom: 2ch;
 }
-
-  
