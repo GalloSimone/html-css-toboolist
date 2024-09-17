@@ -8,20 +8,37 @@
  /* # HEADER */
 .logo-image{
  vertical-align: middle;
- width: 110px;
+ width: 50px;
 }
  .logo-text{
   display: inline;
-  width: 120px;
+  font-size: 50px;
  }
  .botton{
 display: inline;
+margin-top: 50ch;
  }
  .botton-add-task{
 display: inline;
-margin-left: 46ch;
+margin-left: 57ch;
 background-color: lightblue;
  }
  .botton-add-section{
 display: inline;
+color: rgba(128, 128, 128, 0.918);
  }
+ .list{
+  margin-left: 54ch;
+  margin-top: 3ch;
+ }
+.new-task-list{
+
+}
+.today-list{
+ 
+}
+.upcoming-list{
+
+}
+
+  
