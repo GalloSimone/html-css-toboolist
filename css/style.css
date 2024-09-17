@@ -19,20 +19,27 @@ display: inline;
 margin-top: 50ch;
  }
  .botton-add-task{
-display: inline;
-margin-left: 57ch;
-background-color: rgb(55, 191, 237);
-border-radius: 5px;
+  padding: 7px 10px;
+  margin-top: 60px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #47adee;
+  font-weight: 600;
+  margin-left: 430px;
+  
  }
  .botton-add-section{
-display: inline;
-color: rgba(128, 128, 128, 0.918);
-border-radius: 5px;
-background-color: white;
+  padding: 7px 10px;
+  border: 1px solid #bfbfbf;
+  border-radius: 5px;
+  font-weight: 600;
+margin-top: 60px; 
+  background-color: white;
  }
  .list{
   margin-left: 54ch;
-  margin-top: 3ch;
+  margin-top: 5ch;
  }
 .new-task-list{
 margin-bottom: 2ch;
@@ -67,8 +74,14 @@ color: green;
   background-color: chocolate;
  }
  button{
-  background-color: rgb(55, 191, 237) ;
-  border-radius: 6px;
+  background-color:#47adee;
+  border-radius: 10px;
+  padding: 5px;
+  padding: 6px 10px;
+  font-size: .7rem;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
  }
  .button-website{
   background-color: pink;
@@ -98,3 +111,4 @@ color: green;
   vertical-align: middle;
   font-size: 0.8rem;
  }
+ 
