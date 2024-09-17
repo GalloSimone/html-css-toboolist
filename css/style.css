@@ -70,3 +70,14 @@ color: green;
  .button-sale{
   background-color: mediumseagreen;
  }
+ .check-mark{
+  display: inline-block;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        border: 1px solid currentColor;
+        color: green;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 0.8rem;
+ }
