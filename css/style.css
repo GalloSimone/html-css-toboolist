@@ -28,6 +28,7 @@ border-radius: 5px;
 display: inline;
 color: rgba(128, 128, 128, 0.918);
 border-radius: 5px;
+background-color: white;
  }
  .list{
   margin-left: 54ch;
@@ -42,3 +43,20 @@ margin-bottom: 2ch;
 .upcoming-list{
   margin-bottom: 2ch;
 }
+li {list-style: none;
+}
+ul {list-style-type: none;
+}
+.check-green{
+color: green;
+}
+.button-goal{
+  background-color: #8f00ff;
+}
+
+ .button-recruiting{
+  background-color:#21ff61;
+ }
+ .button-mobile{
+  background-color: chocolate;
+ }
